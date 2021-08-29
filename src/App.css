@@ -1,0 +1,7 @@
+.header {
+  @apply text-center;
+  @apply bg-blue-800;
+  @apply text-white;
+  @apply p-4;
+  @apply mb-10;
+}
