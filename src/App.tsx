@@ -9,7 +9,7 @@ const App: FC = () => {
   return (
     <Router>
       <Header />
-      <div className="container">
+      <div className="my-container">
         <Switch>
           <Route exact path="/" component={Home} />
         </Switch>

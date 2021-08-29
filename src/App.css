@@ -3,5 +3,10 @@
   @apply bg-blue-800;
   @apply text-white;
   @apply p-4;
-  @apply mb-10;
+  @apply mb-5;
+}
+
+.my-container {
+  @apply container;
+  margin: auto;
 }

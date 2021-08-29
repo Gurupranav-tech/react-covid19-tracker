@@ -5,7 +5,7 @@ const Header: FC = () => {
     <header className="header">
       <div className="text-3xl md:text-5xl">Covid-19 Tracker</div>
       <p>
-        API by{" "}
+        Data provided by{" "}
         <a
           href="https://covid19api.com"
           className="text-blue-300"
